@@ -1,0 +1,31 @@
+Tecnología o Práctica,Porcentaje de uso
+Android (Kotlin/Java),25.0%
+iOS (Swift/Objective-C),20.5%
+Flutter,18.0%
+React Native,15.5%
+Xamarin,10.0%
+Ionic,8.5%
+Apache Cordova,7.5%
+Unity,6.5%
+Firebase,14.0%
+SQLite,12.5%
+Realm Database,5.0%
+GraphQL,4.5%
+REST APIs,22.0%
+Push Notifications,18.5%
+AdMob (Monetización),9.5%
+ARKit (Realidad Aumentada),7.0%
+Core ML (Machine Learning),6.0%
+Lottie Animations,5.5%
+Fastlane (Automatización),4.5%
+AppCenter,4.0%
+Jenkins CI/CD,3.5%
+App Analytics (Google Analytics/Flurry),12.0%
+Crash Reporting (Crashlytics),10.5%
+In-App Purchases,9.0%
+Geolocalización y Mapas (Google/Apple Maps),11.0%
+Crosswalk,3.0%
+OpenCV,2.5%
+Beacon Technology,2.0%
+HealthKit/Fit API,1.8%
+Bluetooth LE,1.5%
